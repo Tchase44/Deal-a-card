@@ -1,0 +1,45 @@
+body{
+	background-color: darkgreen;
+	min-width: 320px;
+}
+
+div#heading{
+	text-align: center;
+	color: lightgrey;
+	width: 99%;
+}
+#heading button{
+    border-radius:20px;
+    width:100px;
+    height:35px;
+    background-color:darkgrey;
+    color:white;
+    font-size:16pt;
+}
+div#mat{
+	margin-top: 25px;
+	width: 99%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 5px;
+}
+div.sizeSM{
+	background-color: #e8e8e8;
+	box-sizing: border-box;
+	width: 50px;
+	font-weight: bold;
+	height: 80px;
+	border: 2px solid black;
+	font-size: 25px;
+	display: inline-block;
+}
+div#topCorner p{
+	line-height: 1px;
+	text-align: center;
+	font-family: sans-serif;
+}
+div.sizeSM p{
+	line-height: 1px;
+	text-align: center;
+	font-family: sans-serif;
+}
